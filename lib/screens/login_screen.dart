@@ -97,6 +97,7 @@ class _LoginScreenState extends State<LoginScreen>
 
           child: Padding(
             padding: const EdgeInsets.all(24),
+            // Added form validation
 
             child: Form(
               key: formKey,
