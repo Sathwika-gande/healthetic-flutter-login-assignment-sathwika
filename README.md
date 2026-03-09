@@ -46,7 +46,7 @@ Before running this project, make sure you have:
 
 Clone the repository
 
-git clone https://github.com/your-username/healthetic-flutter-login-assignment-sathwika
+git clone https://github.com/Sathwika-gande/healthetic-flutter-login-assignment-sathwika
 
 Go to the project folder
 
@@ -68,7 +68,7 @@ Add your demo video link here.
 
 Example:
 
-https://drive.google.com/your-demo-video-link
+https://drive.google.com/file/d/1_bpvA-4czkMlJOKfBNI8RrA8YcIXYrhX/view?usp=sharing
 
 ---
 
